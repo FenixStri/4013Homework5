@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
+<?php require_once('header.php');?>
 <script>
 function myFunction() {
   var x = document.getElementById("fname");
