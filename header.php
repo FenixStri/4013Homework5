@@ -20,7 +20,7 @@
           <a class="nav-link" href="javascript1.php">Java Script 1 Page</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="instructors.php">Instructors Page</a>
+          <a class="nav-link" href="javascript2.php">Java Script 2 Page</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="instructor-cards.php">Instructor Cards Page</a>
