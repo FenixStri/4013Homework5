@@ -29,7 +29,7 @@
           <a class="nav-link" href="javascript4.php">Java Script 4 Page</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="dogs.php">Dogs Page</a>
+          <a class="nav-link" href="javascript5.php">Java Script 5 Page</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="cats.php">Cats Page</a>
