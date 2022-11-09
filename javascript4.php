@@ -1,14 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
+<?php require_once('header.php');?>
+
 <script>
 function preferedBrowser() {
   prefer = document.forms[0].browsers.value;
   alert("You prefer browsing internet with " + prefer);
 }
 </script>
-</head>
-<body>
+
 
 <form>
 Choose which browser you prefer:
