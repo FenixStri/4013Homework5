@@ -1,21 +1,16 @@
 <?php require_once('header.php');?>
 
+
 <script>
-function preferedBrowser() {
-  prefer = document.forms[0].browsers.value;
-  alert("You prefer browsing internet with " + prefer);
+function myFunction(x) {
+  x.style.background = "yellow";
 }
 </script>
 
 
-<form>
-Choose which browser you prefer:
-  <select id="browsers" onchange="preferedBrowser()">
-    <option value="Chrome">Chrome</option>
-    <option value="Internet Explorer">Internet Explorer</option>
-    <option value="Firefox">Firefox</option>
-  </select>
-</form>
+Enter your name: <input type="text" onfocus="myFunction(this)">
+
+<p>When the input field gets focus, a function is triggered which changes the background-color.</p>
 
 </body>
 </html>
