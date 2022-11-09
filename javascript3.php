@@ -5,8 +5,7 @@ function myFunction() {
   x.value = x.value.toUpperCase();
 }
 </script>
-</head>
-<body>
+
 
 Enter your name: <input type="text" id="fname" onblur="myFunction()">
 
